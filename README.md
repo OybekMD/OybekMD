@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fcoding-animated-laptop-flow-stream-ja04010rm5o68zfk.html&psig=AOvVaw0TZ6uOqKWxrKsYA3pGRl0u&ust=1684420474486000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjVzrHJ_P4CFQAAAAAdAAAAABAZ)](https://oybekmd.netlify.app)
 <h1 align="center">Hi 👋, I'm Oybek Atamatov</h1>
 <h3 align="center">I'm a Fullstack developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
