@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQHMPBvE3avWzg/article-inline_image-shrink_1000_1488/0/1616872522462?e=1697673600&v=beta&t=FaREQfSYxJo9MJ4sa32XDJeNgMyWhLGnNKs3paS3B1k">
+<img align="right" alt="Coding" width="100%" src="https://media.licdn.com/dms/image/C4D12AQHMPBvE3avWzg/article-inline_image-shrink_1000_1488/0/1616872522462?e=1697673600&v=beta&t=FaREQfSYxJo9MJ4sa32XDJeNgMyWhLGnNKs3paS3B1k">
 <h1 align="center">Hi 👋, I'm Oybek Atamatov</h1>
 <h3 align="center">I'm a Fullstack developer from Uzbekistan</h3>
 [![](https://raw.githubusercontent.com/OybekMD/OybekMD/master/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
