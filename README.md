@@ -1,8 +1,9 @@
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQHMPBvE3avWzg/article-inline_image-shrink_1000_1488/0/1616872522462?e=1697673600&v=beta&t=FaREQfSYxJo9MJ4sa32XDJeNgMyWhLGnNKs3paS3B1k">
+<h1 align="center">Hi 👋, I'm Oybek Atamatov</h1>
+<h3 align="center">I'm a Fullstack developer from Uzbekistan</h3>
 [![](https://raw.githubusercontent.com/OybekMD/OybekMD/master/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/OybekMD/OybekMD/master/profile-summary-card-output/city_lights/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OybekMD/OybekMD/master/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/OybekMD/OybekMD/master/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OybekMD/OybekMD/master/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<h1 align="center">Hi 👋, I'm Oybek Atamatov</h1>
-<h3 align="center">I'm a Fullstack developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oybekmd&label=Profile%20views&color=0e75b6&style=flat" alt="oybekmd" /> </p>
