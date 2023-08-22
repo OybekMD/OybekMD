@@ -1,3 +1,4 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Ftechnology-linkedin-background&psig=AOvVaw3X2mLg0hmqq6UIXTMLLFbC&ust=1692785402191000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC1tZaD8IADFQAAAAAdAAAAABAE">
 <h1 align="center">Hi 👋, I'm Oybek Atamatov</h1>
 <h3 align="center">I'm a Fullstack developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
